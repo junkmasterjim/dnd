@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Noah",
+    "race": "Human",
+    "class": "Monk",
+    "level": 1,
+    "background": "Canadian",
+    "strength": 10,
+    "dexterity": 10,
+    "constitution": 10,
+    "intelligence": 10,
+    "wisdom": 10,
+    "charisma": 10,
+    "alignment": "allah",
+    "experience": 0,
+    "hitPoints": 10,
+    "armorClass": 1,
+    "initiative": 10,
+    "speed": 10,
+    "proficiencies": [
+      "Smooth criminal"
+    ],
+    "languages": [
+      "English",
+      "Monkish"
+    ],
+    "equipment": [
+      "Monk staff",
+      "Monk charm",
+      "Ragged robe"
+    ]
+  }
+]
